@@ -1,0 +1,29 @@
+{
+  "name": "globals-holder",
+  "version": "0.1.0",
+  "description": "Just a small class helper to hold configs/components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lucastschmidt/globals-holder"
+  },
+  "keywords": [
+    "config",
+    "components",
+    "holder",
+    "class",
+    "helper"
+  ],
+  "author": "Lucas Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucastschmidt/globals-holder/issues"
+  },
+  "homepage": "https://github.com/lucastschmidt/globals-holder",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
